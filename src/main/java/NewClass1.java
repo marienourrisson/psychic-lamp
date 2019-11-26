@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Marie
+ * @author Marie6
  */
 public class NewClass1 {
     private String nom;
